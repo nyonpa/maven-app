@@ -1,0 +1,23 @@
+ - It is a simple java maven project. 
+   - Apache Maven:
+     - it is a build and dependency management tool for java projects
+     - its help in project architecture, determine and install dependency,
+        run test using Jupiter (JUnit Test), compile and deploy app.
+   
+   - Archetype:
+     - it is a project template. Maven can generate standard project structure 
+       using an archetype.
+   - GroupId:
+     It identifies the organisation that owns the project.
+   - ArtifactId:
+     - acutal project name
+   - Version:
+     - together with groupid and artifactid, it uniquely identifies a project.
+   - Repository : stores artifacts. local, central, remote.
+     - maven life cycle :
+       - compile
+       - test
+       - package
+       - verify
+       - install
+       - deploy
