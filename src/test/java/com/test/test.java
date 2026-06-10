@@ -9,9 +9,8 @@ public class test {
     void testCal()
     {
 
-        int actualResult = c.div(10,5);
         int expectedResult = 2;
-        assertEquals(expectedResult, actualResult);
+        assertEquals(expectedResult, c.div(10,5));
 
     }
 }

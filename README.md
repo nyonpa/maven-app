@@ -21,6 +21,7 @@
        - verify
        - install
        - deploy
+     JUnit 5
      Unit test and Software Testing is two different thing. A software testing is executed after completing the 
      development and it is executed by dedicated team of tester called test engineers.
      Whereas unit testing is performed by the software developers themselves. First a unit test is developed and than
@@ -32,3 +33,6 @@
          - provide expected out
          - verify 
          - report the test.
+     Junit 5 is completely a new unit testing system, its not junit 4 plus new features.
+         user --> jupiter 5 --->platform (user use jupitur 5 api and then only platform can perform testing.) 
+         inorder mentain backward compatibility we need to use vintage or extensions available.
