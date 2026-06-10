@@ -21,3 +21,14 @@
        - verify
        - install
        - deploy
+     Unit test and Software Testing is two different thing. A software testing is executed after completing the 
+     development and it is executed by dedicated team of tester called test engineers.
+     Whereas unit testing is performed by the software developers themselves. First a unit test is developed and than
+     the required functions which clears the test are written.
+       - Unit Testing:
+         - Prepare and set test environment
+         - provide test inputs
+         - run test
+         - provide expected out
+         - verify 
+         - report the test.
